@@ -1,6 +1,6 @@
 # mmvmap - MCP Mapping Viewer Mapper
 
-A small command line utility for making a human-readable version of a decompiled Minecraft mod.
+A small command line utility for making a human-readable version of a decompiled Minecraft mod. Good for reference/documentation. Not recommended for add-on development.
 
 **Prerequisites**
 - Python 3.5+
