@@ -12,7 +12,7 @@ A small command line utility for making a human-readable version of a decompiled
 
 **Basic usage:**
 
-1. Decompile the mod
+1. Decompile the mod, and extract the output to a folder if it is in a zip/jar
 2. Run MCP Mapping Viewer and select the latest mapping for your desired version. This will populate the cache.
 3. From command line: ```python mmvmap.py [decompiled-mod-folder] -mmv```
 
